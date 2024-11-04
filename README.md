@@ -14,9 +14,9 @@
 
 ## Installation
 
-No installation is required! Simply download the executable for your version (example: `scu.exe` for windows) and double-click to run the utility. **No Python environment is needed** to use this tool.
+No installation is required! Simply download the zip (if on windows) or tar.gz (if on macOS/Linux) for your version, unpack, and double-click the executable to run the utility. **No Python environment is needed** to use this tool.
 
-**LINUX USERS**
+### **LINUX USERS**
 
 You may need to give permissions to make this tool executable: `chmod +x /path/to/scu_v0.1.0`
 
