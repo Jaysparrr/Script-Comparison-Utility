@@ -1,5 +1,5 @@
----
 
+---
 # Python Script Comparator Utility (SCU)
 
 **SCU** is a standalone utility designed to compare differences between multiple files in a folder, such as Python files or files of other specified extensions. This tool is ideal for tracking changes in sequential versions of files, highlighting additions and removals for easy comparison.
