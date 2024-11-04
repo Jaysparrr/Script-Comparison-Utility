@@ -14,11 +14,14 @@
 
 ## Installation
 
-No installation is required! Simply download the executable (`scu.exe`) and double-click to run the utility. **No Python environment is needed** to use this tool.
+No installation is required! Simply download the executable for your version (example: `scu.exe` for windows) and double-click to run the utility. **No Python environment is needed** to use this tool.
+
+**LINUX USERS**
+
+You may need to give permissions to make this tool executable: `chmod +x /path/to/scu_v0.1.0`
 
 ## Usage
-
-1. **Open the Application**: Double-click `scu.exe` to launch the GUI.
+1. **Open the Application**: Double-click `scu.exe` (or whichever executable you choose) to launch the GUI.
 2. **Select Folder**: Use the folder selection option to choose a directory containing the files you want to compare.
 3. **Choose File Extension**: Use the dropdown menu to specify the file extension to compare (e.g., `.py`, `.txt`, `.md`).
 4. **Set Filtering Options**: Select your preference to show additions, removals, or both.
